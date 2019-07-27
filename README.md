@@ -1,4 +1,4 @@
-# codefundo-2019
+# Codefundo-2019
 ## Introduction
 
 India is a country with a voting population of about 900 million people. It is the world's largest celebration of democracy. So we at         believe that a good democracy needs a strong foundation laid in integrity, trust, transparency and security.
@@ -28,12 +28,12 @@ Democracy is a system where citizens exercise the power by electing representati
 ## Technology Stack
     Azure Blockchain Workbench
     Azure Cognitive Services
-    Cosmos Db
-    Azure 
-    Node Js
+    Cosmos Db 
+    NodeJs
     Azure Virtual Machines 
     Azure Kubernetes Service
-    Azure Pipelines.
+    Azure Pipelines for CICD
+    Azure Machine Learning Service
 
 
 
