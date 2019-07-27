@@ -1,4 +1,4 @@
-# Codefundo-2019
+# codefundo-2019
 ## Introduction
 
 India is a country with a voting population of about 900 million people. It is the world's largest celebration of democracy. So we at         believe that a good democracy needs a strong foundation laid in integrity, trust, transparency and security.
@@ -15,6 +15,16 @@ The election process was created to help democracy but it feels like we have bee
 It's time for a revolution and some innovation.Hence we propose a multi part solution that cuts across few of the pain points.
 
 ## Solution and Workflow
+### Direct Voting system
+We understand that one of the key issues with the current system is that a voter has to be present at his/her constituency on a particular day. This restriction is one of the primary reasons we have a low voter turn out. 
+We plan to address this with a  digital voting system powered by Azure blockchain and other Azure services like cosmos Db, Azure ML services etc.
+
+- On boarding current eligible voters onto our Voterchain, this process will be online at digital centres through the EC where Image data will also be captured.
+- crypto currency thingi here, yet to add
+- On the day of election, the image data is used through Microsoft Cognitive services and AI to help extend a second layer of verification.
+- Once authenticated by a bilayer system, the screen will be custom populated with the respective constituency candidates.
+- Voter can choose the candidate irrespective of the location of voting.
+
 ### Asset Declaration 
 Declaring assets and flow of money through parties has always been a prime concern for the EC, The current system lacks       transparency and integrity. With the help of smart contracts we can track each candidate’s  spending to the last cent.
 
@@ -28,12 +38,12 @@ Democracy is a system where citizens exercise the power by electing representati
 ## Technology Stack
     Azure Blockchain Workbench
     Azure Cognitive Services
-    Cosmos Db 
-    NodeJs
+    Cosmos Db
+    Azure 
+    Node Js
     Azure Virtual Machines 
     Azure Kubernetes Service
-    Azure Pipelines for CICD
-    Azure Machine Learning Service
+    Azure Pipelines.
 
 
 
