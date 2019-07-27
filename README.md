@@ -5,13 +5,13 @@ India is a country with a voting population of about 900 million people. It is t
 
 ## Motivation
 The election process was created to help democracy but it feels like we have been shackled by the very same process, below are the few problems faced :
-Cost and manpower required for an election in our country is just enormous.
-Accountability and Integrity have always been issues in multiple domains, like :
-Transfer and storage of EVMS
-Creation and maintenance of voters list
-Verification of a voter
-Vote counting and manipulation.
-The sheer amount of paperwork and manual labor required is unimaginable.
+- Cost and manpower required for an election in our country is just enormous.
+- Accountability and Integrity have always been issues in multiple domains, like :
+  - Transfer and storage of EVMS
+  - Creation and maintenance of voters list
+  - Verification of a voter
+  - Vote counting and manipulation.
+- The sheer amount of paperwork and manual labor required is unimaginable.
 It's time for a revolution and some innovation.Hence we propose a multi part solution that cuts across few of the pain points.
 
 ## Solution and Workflow
