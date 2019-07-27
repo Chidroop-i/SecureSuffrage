@@ -41,6 +41,8 @@ Democracy is a system where citizens exercise the power by electing representati
     Cosmos Db
     Azure 
     Node Js
+    AngularJS(Front-end)
+    SHA1 algorithm
     Azure Virtual Machines 
     Azure Kubernetes Service
     Azure Pipelines.
