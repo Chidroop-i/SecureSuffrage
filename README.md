@@ -24,7 +24,7 @@ We plan to address this with a  digital voting system powered by Azure blockchai
 - During voting the image data is used through Microsoft Cognitive services and AI to help extend a second layer of verification.
 - Once authenticated by a bilayer system, the screen will be custom populated with the respective constituency candidates.
 - Voter can choose the candidate irrespective of the location and on  voting the crypto coin will be transfered to the candidates wallet.
-- The coins counts replaces the vote count for each candidate.
+- The coins' count replaces the vote count for each candidate.
 
 
 ### Asset Declaration 
