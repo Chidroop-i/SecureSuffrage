@@ -20,10 +20,12 @@ We understand that one of the key issues with the current system is that a voter
 We plan to address this with a  digital voting system powered by Azure blockchain and other Azure services like cosmos Db, Azure ML services etc.
 
 - On boarding current eligible voters onto our Voterchain, this process will be online at digital centres through the EC where Image data will also be captured.
-- On the election day one vote in the form of a cryto coin will be added to the wallet of the voter and on voting this coin will be transfered to the candidates wallet.
-- On the day of election, the image data is used through Microsoft Cognitive services and AI to help extend a second layer of verification.
+- On the election day one vote in the form of a cryto coin will be added to the wallet of the voter. 
+- During voting the image data is used through Microsoft Cognitive services and AI to help extend a second layer of verification.
 - Once authenticated by a bilayer system, the screen will be custom populated with the respective constituency candidates.
-- Voter can choose the candidate irrespective of the location of voting.
+- Voter can choose the candidate irrespective of the location and on  voting the crypto coin will be transfered to the candidates wallet.
+- The coins counts replaces the vote count for each candidate.
+
 
 ### Asset Declaration 
 Declaring assets and flow of money through parties has always been a prime concern for the EC, The current system lacks       transparency and integrity. With the help of smart contracts we can track each candidate’s  spending to the last cent.
