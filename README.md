@@ -31,7 +31,7 @@ We plan to address this with a  digital voting system powered by Azure blockchai
 Declaring assets and flow of money through parties has always been a prime concern for the EC, The current system lacks       transparency and integrity. With the help of smart contracts we can track each candidate’s  spending to the last cent.
 
 The system can also act as a Live POC for other government entities to implement blockchain.
-Eg The Land Registration can be completely Moved to a Blockchain based system. Saving Crores for the Govt.  
+Eg :- The Land Registration can be completely moved to a Blockchain based system. Saving Crores for the Govt.  
 ### Micro Democracy
 Democracy is a system where citizens exercise the power by electing representatives, where in people’s voice needs to be heard from time to time but for a country like ours it is impossible to conduct an election so often. So it’s time to bring back the power to the people. 
 
@@ -41,7 +41,6 @@ Democracy is a system where citizens exercise the power by electing representati
     Azure Blockchain Workbench
     Azure Cognitive Services
     Cosmos Db
-    Azure 
     Node Js
     AngularJS(Front-end)
     SHA1 algorithm
