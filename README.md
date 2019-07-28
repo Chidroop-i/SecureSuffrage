@@ -4,7 +4,7 @@
 India is a country with a voting population of about 900 million people. It is the world's largest celebration of democracy. So we at         believe that a good democracy needs a strong foundation laid in integrity, trust, transparency and security.
 
 ## Motivation
-The election process was created to help democracy but it feels like we have been shackled by the very same process, below are the few [![Generic badge](https://img.shields.io/badge/-problems%20faced:-red.svg)](https://github.com/lvnarke/codefundo-2019/edit/master/README.md)
+The election process was created to help democracy but it feels like we have been shackled by the very same process, below are the few problems faced:
 - Cost and manpower required for an election in our country is just enormous.
 - Accountability and Integrity have always been issues in multiple domains, like :
   - Transfer and storage of EVMS
