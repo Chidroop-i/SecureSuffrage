@@ -35,7 +35,7 @@ Eg :- The Land Registration can be completely moved to a Blockchain based system
 ### Micro Democracy
 Democracy is a system where citizens exercise the power by electing representatives, where in people’s voice needs to be heard from time to time but for a country like ours it is impossible to conduct an election so often. So it’s time to bring back the power to the people. 
 
-<b>Secure Suffrage </b>aims to create a platform where we can establish a two-way channel between the citizen and their representatives. Where Major policies or complaints can be raised and the constituency members can vote on it or raise issues.
+<b>Secure Suffrage </b>aims to create a platform where we can establish a two-way channel between the citizen and their representatives. Where Major policies or complaints can be raised and the constituency members can vote on it.
   
 ## Technology Stack
     Azure Blockchain Workbench
