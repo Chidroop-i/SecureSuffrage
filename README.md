@@ -1,7 +1,7 @@
 # Codefundo-2019
 ## Introduction
 
-India is a country with a voting population of about 900 million people. It is the world's largest celebration of democracy. So we at         believe that a good democracy needs a strong foundation laid in integrity, trust, transparency and security.
+India is a country with a voting population of about 900 million people. It is the world's largest celebration of democracy. So we at   <b>Secure Suffrage</b> believe that a good democracy needs a strong foundation laid in integrity, trust, transparency and security.
 
 ## Motivation
 The election process was created to help democracy but it feels like we have been shackled by the very same process, below are the few problems faced:
@@ -33,7 +33,7 @@ Eg The Land Registration can be completely Moved to a Blockchain based system. S
 ### Micro Democracy
 Democracy is a system where citizens exercise the power by electing representatives, where in people’s voice needs to be heard from time to time but for a country like ours it is impossible to conduct an election so often. So it’s time to bring back the power to the people. 
 
-<our product> aims to create a platform where we can establish a two-way channel between the citizen and their representatives. Where Major policies or complaints can be raised and the constituency members can vote on it or raise issues.
+<b>Secure Suffrage </b>aims to create a platform where we can establish a two-way channel between the citizen and their representatives. Where Major policies or complaints can be raised and the constituency members can vote on it or raise issues.
   
 ## Technology Stack
     Azure Blockchain Workbench
