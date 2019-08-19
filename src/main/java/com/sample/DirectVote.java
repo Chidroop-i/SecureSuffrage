@@ -1,6 +1,6 @@
 package com.sample;
 
-import com.sample.model.LiquorType;
+
 
 
 import javax.servlet.RequestDispatcher;
@@ -14,7 +14,7 @@ import java.sql.SQLException;
 
 
 @WebServlet(urlPatterns = {"/auth","/vote"})
-public class SelectLiquorServlet extends HttpServlet {
+public class DirectVote extends HttpServlet {
     String uname, psw;
 
     @Override
